@@ -1,0 +1,28 @@
+{
+  "name": "botone",
+  "version": "1.0.0",
+  "description": "Bot connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabanskiy/BotOne.git"
+  },
+  "keywords": [
+    "connect",
+    "bot"
+  ],
+  "author": "sabanskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sabanskiy/BotOne/issues"
+  },
+  "homepage": "https://github.com/sabanskiy/BotOne#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
